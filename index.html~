@@ -51,8 +51,16 @@
 
 
       <section id="main_content">
-        <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Сдай на 100.</h3>
+<h3><a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Сдай на 100.</h3>
+<p>
+Вычислите $$\log_{(\sqrt{7}+1)}{(8+2\sqrt{7})} + \log_{\frac{1}{2}}^2{\sqrt[3]{4}} + 6^{\log_{36}49} + \log_5{\frac{1}{25}} - \left(\frac{2}{3}\right)^2.$$
+<br/>
+<br/>
+<b>Решение.</b>
+<br/>
+Чтобы указать формулу для нахождения $n$-го члена арифметической прогрессии нужно знать значение первого члена $a_1$ и разность прогрессии. Тогда $a_n = a_1$ + $(n-1)\cdot d$ (*). По условию нам дана разность прогрессии $d = -7$, а первый член можно найти из общей формулы (*): $a_2 = a_1 + (2-1)\cdot d \Rightarrow a_1 = a_2 - d$. В нашем случае $a_1 = 4 - (-7) = 11$. Подствляем в (*) и получаем ответ: $a_n = 11 + (n-1) \cdot (-7) = 18 - 7\cdot n$.
+</p>
+<h3><a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
 
 <p>
 Укажите формула для нахождения $n$-го члена $a_n$ арифметической прогрессии, у которой $a_2 = 4$, $d = -7$.
@@ -84,15 +92,6 @@
 Мы имеем дело с интервалом координатной прямой заключенным между точками $-7$ и $9$. Точка $-7$ обозначена как выколотая $\Rightarrow$ не входит в интервал. Точка $9$ не выколотая $\Rightarrow$ входит в интервал. Значит неравенство, описывающее множество точек на рисунке имеет вид: $-7\lt n \leq 9$.
 </p>
 
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can @mention a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
       </section>
 
       <footer>
