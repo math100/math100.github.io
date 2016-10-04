@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version = "1.1"
+     baseProfile="full"
+     xmlns = "http://www.w3.org/2000/svg" 
+     xmlns:xlink = "http://www.w3.org/1999/xlink"
+     xmlns:ev = "http://www.w3.org/2001/xml-events"
+     height = "300"  width = "300">
+<style>
+text {
+    font: 13px Verdana;
+}
+.arc path {
+    stroke: #000;
+}
+</style><g transform="translate(150,150)"><g class="arc"><path d="M0,-120A120,120 0 0,1 115.357,-33.076L0,0Z" style="fill: rgb(31, 119, 180); opacity: 0.3;"></path><text transform="translate(36.11,-46.92)" style="text-anchor: middle;">Картофель</text><text transform="translate(14.44,-15.97)" style="text-anchor: middle;">74°</text></g><g class="arc"><path d="M115.35140351259827,-33.0764826980399A120,120 0 0,1 -22.897,117.795L0,0Z" style="fill: rgb(255, 127, 14); opacity: 0.3;"></path><text transform="translate(44.24,41.54)" style="text-anchor: middle;">Морковь</text><text transform="translate(17.69,19.41)" style="text-anchor: middle;">117°</text></g><g class="arc"><path d="M-22.897,117.795A120,120 0 0,1 -108.7569,50.714L0,0Z" style="fill: rgb(44, 160, 44); opacity: 0.3;"></path><text transform="translate(-36.94,48.28)" style="text-anchor: middle;">Кукуруза</text><text transform="translate(-14.78,22.11)" style="text-anchor: middle;">54°</text></g><g class="arc"><path d="M-108.7569,50.714A120,120 0 0,1 -103.9,-60L0,0Z" style="fill: rgb(214, 39, 40); opacity: 0.3;"></path><text transform="translate(-59.94,-1.62)" style="text-anchor: middle;">Фасоль</text><text transform="translate(-23.98,2.15)" style="text-anchor: middle;">55°</text></g><g class="arc"><path d="M-103.92,-60A120,120 0 0,1 0,-120L0,0Z" style="fill: rgb(148, 103, 189); opacity: 0.3;"></path><text transform="translate(-30.00,-50.96)" style="text-anchor: middle;">Свекла</text><text transform="translate(-12.00,-17.58)" style="text-anchor: middle;">60°</text></g></g></svg>
